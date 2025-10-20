@@ -1,0 +1,26 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+.env
+.env.*
+.streamlit/secrets.toml
+
+# Machine learning models
+*.h5
+*.pt
+*.ckpt
+model/
+"plant_disease_prediction_model (1).h5"
+
+# IDEs
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
